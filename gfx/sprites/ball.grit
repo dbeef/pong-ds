@@ -1,2 +1,2 @@
--gB4
--gT 209c00
+-gB4 # Informujemy grit, że obrazek jest w 4 bitowej palecie kolorów
+-gT 209c00 # Informujemy, że kolor #209c00 ma interpretować jako przeźroczystość
